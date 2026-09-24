@@ -1,29 +1,194 @@
-# vityarthi-project
-I have make Automated Retail Supermarket Billing System project using this course .
-I have make this project on VS studio code. 
-let's breakdown , how you can run this code in vs code.
+# VITyarthi-Project-1
 
-!!!!!!Downloading!!!!!!!
+# Hotel Management System
+
+I have made a **Hotel Management System** as my VITyarthi project.
+
+I made this project using **Python** and I used **VS Code** to write and run the code.
+
+In this README, I will show how to download the required software, open my project and run it in VS Code.
+
+---
+
+# !!!!! Downloading !!!!!!
+
+## 1st:- Downloading VS Code
+
+First, download VS Code according to your system.
+
+You can download VS Code from this link:
+
+https://code.visualstudio.com/download
+
+VS Code is available for:
+
+- Windows
+- Mac
+- Linux
+
+After downloading, install VS Code on your computer.
 
 
-1st:- downloading vs code using this https://code.visualstudio.com/download?_exp_download=fb315fc982  link. on if you are in windows/mac/linux system. 
 
-2nd:- install VS code & install python on vs code, in extension tab (You can use Ctrl + SHift+x button to open ), search python on search bar and just install it. 
+## 2nd:- Installing Python Extension in VS Code
 
+After installing VS Code, we need to install the Python extension.
 
-3rd:- installing Python in our machine using https://www.python.org/downloads/ link.
+1. Open VS Code.
+2. Go to the **Extensions** section.
+3. You can also use:
 
+   **Ctrl + Shift + X**
 
-Now setup is done !! 
+4. Search **Python** in the search bar.
+5. Install the Python extension.
 
-
-
-Now you can download code given by me in this https://github.com/shubhambyte-by/vityarthi-project Repo.
-And Open this code in vs studio. (just right click on file and open with VS studio code. the code will open in vs studio code , then Go to "Run" section on Vs studio. )
-
-code will first compile and then run. 
-
-Now Next steps are related to MY project and output
+This extension helps us to run Python programs in VS Code.
 
 
 
+## 3rd:- Installing Python
+
+Now we need to install Python on our computer.
+
+You can download Python from:
+
+https://www.python.org/downloads/
+
+Download Python according to your system and install it.
+
+If you are using Windows, make sure to check:
+
+**Add Python to PATH**
+
+during installation.
+
+
+
+# Now Setup is Done !!
+
+Now VS Code and Python are ready.
+
+We can now download my Hotel Management System project and run it.
+
+---
+
+# Downloading My Project
+
+You can download my project from my GitHub repository:
+
+https://github.com/shubhambyte-by/VITyarthi-Project
+
+Open the repository and click on:
+
+**Code → Download ZIP**
+
+After downloading, extract the ZIP file.
+
+You can also clone the repository if you already use Git.
+
+
+
+# Opening Project in VS Code
+
+After extracting the project:
+
+1. Open the project folder.
+2. Right click inside the folder.
+3. Select **Open with VS Code**.
+
+The project will open in VS Code.
+
+You can also open it from VS Code using:
+
+**File → Open Folder**
+
+
+
+# Files in My Project
+
+My Hotel Management System has different Python files.
+
+- `main.py` - This is the main file of my project. We run this file to start the program.
+- `GuestInfo.py` - This file is related to guest information.
+- `Roominfo.py` - This file is related to room information.
+- `Hotel_Data.py` - This file contains the hotel data used in the project.
+
+The different files are connected with the main program.
+
+## Project Structure
+
+This is how my project looks in VS Code:
+
+![Hotel_data](screenshots\Screenshot\Hoteldata.png) 
+![Guest_data](screenshots\Screenshot\GuestData.png)
+![Room info 1 ](screenshots\Screenshot\Roominfo1.png)
+![Room info 2 ](screenshots\Screenshot\Roominfo2.png)
+
+
+---
+
+# Running the Code
+
+Now we can run the project.
+
+Open the **main.py** file in VS Code.
+
+Then go to the **Run** section and select:
+
+**Run Python File**
+
+You can also click on the **Run button** at the top - right corner.
+
+After running the file, the program will start in the VS Code terminal.
+
+
+
+# Now Next Steps Are Related to MY Project and Output
+
+## Main Program
+
+`main.py` is the main output file of my project.
+
+When we run `main.py`, the Hotel Management System starts.
+
+### Main Output
+
+![Main Output](screenshots/main-output.png)
+
+---
+
+## Guest Information
+
+The project also contains a separate file called `GuestInfo.py`, which is used for guest-related information.
+
+![Guest Information](screenshots/guest-info.png)
+
+---
+
+## Room Information
+
+`Roominfo.py` is used for the room-related part of the project.
+
+![Room Information](screenshots/room-info.png)
+
+---
+
+# Project Output
+
+After running the program, we can use the options provided by the Hotel Management System.
+
+The complete output of my project can be seen below:
+
+![Final Output](screenshots/final-output.png)
+
+---
+
+# Thank You 
+
+Thank you for checking out my **Hotel Management System** project.
+
+Made by
+ 
+**Name - Shubham Sahu**
+**REG. NO. 26BCE10056**

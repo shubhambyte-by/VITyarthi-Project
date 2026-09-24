@@ -11,3 +11,4 @@ guest = {}
 
 # Booking confirmed : guest ID -> [Room no., days, total_amount]
 booking = {}
+

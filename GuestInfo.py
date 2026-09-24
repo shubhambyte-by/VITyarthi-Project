@@ -1,5 +1,5 @@
+# This file store data related to Guests 
 from Hotel_Data import guest
-
 
 def add_guest():
     # Registering a new guest with id, name and contact no.
