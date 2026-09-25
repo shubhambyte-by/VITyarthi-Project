@@ -183,7 +183,12 @@ The project also contains a separate file called `GuestInfo.py`, which is used f
 
 After running the program, we can use the options provided by the Hotel Management System.
 
-The complete output of my project can be seen below:
+The complete output of my project can be seen below
+![OUTPUT1](screenshots/Screenshot/OUTPUT1.png)
+![OUTPUT2](screenshots/Screenshot/OUTPUT2.png)
+![OUTPUT3](screenshots/Screenshot/OUTPUT3.png)
+![OUTPUT4](screenshots/Screenshot/OUTPUT4.png)
+![OUTPUT5](screenshots/Screenshot/OUTPUT5.png)
 
 
 ---

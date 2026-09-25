@@ -18,7 +18,7 @@ def Bill():
     room_no, days, total_amount = booking[guest_ID]
     guest_name = guest[guest_ID][0]
 
-    print(" " + " = " * 32)
+    print("" + "=" * 32)
     print("           HOTEL INVOICE         ")
     print("=" * 32)
     print(f" Guest Name : {guest_name}")
