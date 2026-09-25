@@ -19,7 +19,7 @@ def Bill():
     guest_name = guest[guest_ID][0]
 
     print(" " + " = " * 32)
-    print("           HOSTEL INVOICE         ")
+    print("           HOTEL INVOICE         ")
     print("=" * 32)
     print(f" Guest Name : {guest_name}")
     print(f" Guest ID   : {guest_ID}")

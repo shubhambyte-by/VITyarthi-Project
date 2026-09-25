@@ -120,10 +120,11 @@ The different files are connected with the main program.
 
 This is how my project looks in VS Code:
 
-![Hotel_data](screenshots\Screenshot\Hoteldata.png) 
-![Guest_data](screenshots\Screenshot\GuestData.png)
-![Room info 1 ](screenshots\Screenshot\Roominfo1.png)
-![Room info 2 ](screenshots\Screenshot\Roominfo2.png)
+![Hotel_data](screenshots/Screenshot/Hoteldata.png) 
+
+
+
+
 
 
 ---
@@ -154,7 +155,9 @@ When we run `main.py`, the Hotel Management System starts.
 
 ### Main Output
 
-![Main Output](screenshots/main-output.png)
+![Mainfile1](screenshots/Screenshot/Main1.png)
+![Mainfile2](screenshots/Screenshot/Main2.png)
+![Mainfile3](screenshots/Screenshot/Main3.png)
 
 ---
 
@@ -162,7 +165,7 @@ When we run `main.py`, the Hotel Management System starts.
 
 The project also contains a separate file called `GuestInfo.py`, which is used for guest-related information.
 
-![Guest Information](screenshots/guest-info.png)
+![Guest_data](screenshots/Screenshot/GuestData.png)
 
 ---
 
@@ -170,7 +173,9 @@ The project also contains a separate file called `GuestInfo.py`, which is used f
 
 `Roominfo.py` is used for the room-related part of the project.
 
-![Room Information](screenshots/room-info.png)
+
+![Room info 1 ](screenshots/Screenshot/Roominfo1.png)
+![Room info 2 ](screenshots/Screenshot/Roominfo2.png)
 
 ---
 
@@ -180,7 +185,6 @@ After running the program, we can use the options provided by the Hotel Manageme
 
 The complete output of my project can be seen below:
 
-![Final Output](screenshots/final-output.png)
 
 ---
 
